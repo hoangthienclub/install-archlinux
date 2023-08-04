@@ -162,7 +162,7 @@ qt5ct | theming QT5 apps
 firefox | browser
 kitty | terminal
 neofetch | fetch tool
-dolphin | kde file manager
+thunar | file manager
 visual-studio-code-bin | gui code editor
 vim | text editor
 ark | kde file archiver
@@ -185,36 +185,36 @@ pokemon-colorscripts-git | display pokemon sprites
 
 | Key 1 | Key 2 | Key 3 | Action |
 | :-:   | :-:   | :-:   | ---    |
-| `Super` | `Q` | | Quit active/focused window
-| `Super` | `del` | | quit hyprland session
-| `Super` | `W` | | toggle Window on focus to float
+| `ALT` | `Q` | | Quit active/focused window
+| `ALT` | `del` | | quit hyprland session
+| `ALT` | `W` | | toggle Window on focus to float
 | `Alt` | `enter` | | toggle window on focus to fullscreen
-| `Super` | `G` | | disable hypr effects for Gamemode
-| `Super` | `T` | | launch kitty Terminal
-| `Super` | `E` | | launch dolphin file Explorer
-| `Super` | `V` | | launch Vs code
-| `Super` | `F` | | launch Firefox
-| `Super` | `A` | | launch desktop Applications (rofi)
-| `Super` | `tab` | | switch open applications (rofi)
-| `Super` | `R` | | browse system files (rofi)
+| `ALT` | `G` | | disable hypr effects for Gamemode
+| `ALT` | `T` | | launch kitty Terminal
+| `ALT` | `E` | | launch thunar file Explorer
+| `ALT` | `V` | | launch Vs code
+| `ALT` | `F` | | launch Firefox
+| `ALT` | `SPACE` | | launch desktop Applications (rofi)
+| `ALT` | `tab` | | switch open applications (rofi)
+| `ALT` | `R` | | browse system files (rofi)
 | `F10` | | | mute audio output (toggle)
 | `F11` | | | decrease volume (hold)
 | `F12` | | | increase volume (hold)
-| `Super` | `L` | | lock screen
-| `Super` | `backspace` | | logout menu
-| `Super` | `P` | | screenshot snip
-| `Super` | `Alt` | `P` | print current screen and save to ~/Apps/grim/
-| `Super` | `RightClick` | | resize the window 
-| `Super` | `LeftClick` | | change the window position
-| `Super` | `MouseScroll` | | cycle through workspaces
-| `Super` | `shift` | `arrow keys` | resize windows (hold)
-| `Super` | `[0-9]` | | switch to workspace [0-9]
-| `Super` | `shift` | `[0-9]` | move active window to workspace [0-9]
-| `Super` | `Alt` | `right` | next wallpaper
-| `Super` | `Alt` | `left` | previous wallpaper
-| `Super` | `Alt` | `up` | next waybar mode
-| `Super` | `Alt` | `down` | previous waybar mode
-| `Super` | `shift` | `T` | theme select menu
+| `ALT` | `L` | | lock screen
+| `ALT` | `backspace` | | logout menu
+| `ALT` | `P` | | screenshot snip
+| `ALT` | `Alt` | `P` | print current screen and save to ~/Apps/grim/
+| `ALT` | `RightClick` | | resize the window 
+| `ALT` | `LeftClick` | | change the window position
+| `ALT` | `MouseScroll` | | cycle through workspaces
+| `ALT` | `shift` | `arrow keys` | resize windows (hold)
+| `ALT` | `[0-9]` | | switch to workspace [0-9]
+| `ALT` | `shift` | `[0-9]` | move active window to workspace [0-9]
+| `ALT` | `Alt` | `right` | next wallpaper
+| `ALT` | `Alt` | `left` | previous wallpaper
+| `ALT` | `Alt` | `up` | next waybar mode
+| `ALT` | `Alt` | `down` | previous waybar mode
+| `ALT` | `shift` | `T` | theme select menu
 
 </details>
 
