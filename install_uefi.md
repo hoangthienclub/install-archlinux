@@ -13,7 +13,8 @@ If the command shows the directory without error, then the system is booted in U
 Run the following command:
 
 ```
-$ pacman -S y reflector
+$ pacman-key --init
+$ pacman -Sy reflector
 $ reflector -c Vietnam -c Singapore -c Janpan -c India -a 12 --sort rate --save /etc/pacman.d/mirrorlist
 ```
 
