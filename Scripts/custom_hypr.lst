@@ -57,3 +57,7 @@ cmatrix
 fcitx5
 fcitx5-config-qt
 fcitx5-unikey
+neovim
+nodejs
+npm
+docker
