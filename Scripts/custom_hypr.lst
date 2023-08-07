@@ -56,8 +56,10 @@ pokemon-colorscripts-git
 cmatrix
 fcitx5
 fcitx5-config-qt
-fcitx5-unikey
+fcitx5-unikeye
 neovim
 nodejs
 npm
 docker
+telegram-desktop
+slack-desktop
