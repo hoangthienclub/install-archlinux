@@ -58,18 +58,6 @@ else
     echo "WARNING: grub is not installed..."
 fi
 
-
-# dolphin
-if pkg_installed dolphin && pkg_installed xdg-utils
-    then
-    xdg-mime default org.kde.dolphin.desktop inode/directory
-    echo "setting" `xdg-mime query default "inode/directory"` "as default file explorer..."
-
-else
-    echo "WARNING: dolphin is not installed..."
-fi
-
-
 # zsh
 if pkg_installed zsh
     then

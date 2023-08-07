@@ -432,7 +432,7 @@ text.press.color=#4C4F69
 text.focus.color=#4C4F69
 
 [Hacks]
-transparent_dolphin_view=true
+transparent_thunar_view=true
 blur_konsole=true
 transparent_ktitle_label=true
 transparent_menutitle=true

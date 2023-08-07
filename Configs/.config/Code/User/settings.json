@@ -7,8 +7,8 @@
     "security.workspace.trust.untrustedFiles": "newWindow",
     "security.workspace.trust.startupPrompt": "never",
     "security.workspace.trust.enabled": false,
-    "workbench.sideBar.location": "right",
-    "editor.minimap.side": "left",
+    "workbench.sideBar.location": "left",
+    "editor.minimap.side": "right",
     "editor.fontFamily": "'Maple Mono', 'monospace', monospace",
     "editor.minimap.scale": 2
 }

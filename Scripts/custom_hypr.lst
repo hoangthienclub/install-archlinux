@@ -42,7 +42,7 @@ qt5ct
 firefox
 kitty
 neofetch
-dolphin
+thunar
 visual-studio-code-bin
 vim
 ark
@@ -53,3 +53,11 @@ zsh-theme-powerlevel10k-git
 zsh-syntax-highlighting-git
 zsh-autosuggestions-git
 pokemon-colorscripts-git
+cmatrix
+fcitx5
+fcitx5-config-qt
+fcitx5-unikey
+neovim
+nodejs
+npm
+docker
