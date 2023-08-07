@@ -164,10 +164,12 @@ Then create a **GRUB** config file:
 ```
 $ grub-mkconfig -o /boot/grub/grub.cfg
 ```
+If you wish to have the default XDG directories (like Downloads, Pictures, Documents etc.) do:
+
+$ sudo pacman -S xdg-user-dirs
+$ xdg-user-dirs-update
 
 #### Final step
-
-Exit out of the chroot environment by typing `exit` or pressing <kbd>Ctrl</kbd>+<kbd>d</kbd>.
 
 Unmount all the partitions:
 
